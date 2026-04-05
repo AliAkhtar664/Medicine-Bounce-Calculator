@@ -1,0 +1,5 @@
+{
+  "name": "Medicine Bonus Calculator",
+  "description": "Calculate profit and bonus percentages for medicine purchase schemes like 10+1, 5+1, etc.",
+  "requestFramePermissions": []
+}
